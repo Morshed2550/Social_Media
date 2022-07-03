@@ -17,8 +17,8 @@
          
                 <tr>
                     <td>Edit/Delete:</td>
-                    <td><input type="radio" name="like/unlike" value="like">Edit</td>
-                    <td><input type="radio" name="like/unlike" value="unlike">Delete</td>                                  
+                    <td><input type="radio" name="Edit/Delete" value="Edit">Edit</td>
+                    <td><input type="radio" name="Edit/Delete" value="Delete">Delete</td>                                  
                 </tr>
 				<tr>
                     <td>Comment:</td>
