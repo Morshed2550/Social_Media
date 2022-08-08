@@ -3,7 +3,7 @@
     <title>Profile Page</title>
   </head>
 
-  <body>
+  <body background="image1.jpg">
 	<h1>News Feed</h1>
     <br />
 	<form action="post.php" method="POST">
